@@ -1,8 +1,5 @@
 #FRC Info
 
-##Serial Keys for National Instruments Labview Runtimes 
+#### EVHS Robotics 
 
-- M78x30333
-- S14x86763
-
-
+[Go to the wiki](https://github.com/EVHSRobotics/FRCInfo/wiki)
